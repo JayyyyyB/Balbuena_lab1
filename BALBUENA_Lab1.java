@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HalfDiamondPattern {
+public class BALBUENA_Lab1 {
     public static void main(String[] args) {
         @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in);
